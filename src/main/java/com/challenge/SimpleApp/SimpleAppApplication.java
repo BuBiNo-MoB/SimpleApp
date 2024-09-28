@@ -16,6 +16,6 @@ public class SimpleAppApplication {
 class HelloController {
 	@GetMapping("/")
 	public String hello() {
-		return "Ciao Felicitàè!!";
+		return "Se mi vedi FUNZIONAAAAAAAA";
 	}
 }
