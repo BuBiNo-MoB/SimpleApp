@@ -1,0 +1,2 @@
+[docker-hosts]
+192.168.1.21 ansible_user=emanuel ansible_ssh_pass=ovolollo
